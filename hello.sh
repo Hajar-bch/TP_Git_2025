@@ -1,7 +1,9 @@
 #!/bin/bash
 
+
 #Debut du script
-echo "Hello world"
+val_to_print=$1
+echo $val_to_print
 #Fin du script
 
 exit
